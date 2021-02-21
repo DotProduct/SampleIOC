@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LouLibrary/LouLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/LouLibrary/LouLibrary.iml" group="SampleIOC/LouLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleIOC.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleIOC.iml" group="SampleIOC" />
+    </modules>
+  </component>
+</project>
