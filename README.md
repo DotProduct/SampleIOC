@@ -36,4 +36,4 @@ Log.i("SAYHI","SAY - 2: ${ben.sayHi(ben)}")
 
 ```
 
-Now you're ready to have your code say
+Now you're ready to have your code say Hi. 
